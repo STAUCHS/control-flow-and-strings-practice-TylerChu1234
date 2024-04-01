@@ -6,6 +6,13 @@ class B4IsPrime extends ConsoleProgram {
   */
   
   public void run() {
+    int intNumber;
+
+    intNumber = readInt ("Enter your number: ");
+
+    if (intNumber % 
+
+
     
   }
 }
