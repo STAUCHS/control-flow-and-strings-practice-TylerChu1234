@@ -30,15 +30,12 @@ class B2GuessingGame extends ConsoleProgram {
        
         }
 
-        
-            
-      }
-    System.out.println("nice try");
     }
 
+    System.out.println("nice try");
 
+  }
 
-    
 }
       
 
